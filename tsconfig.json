@@ -1,0 +1,7 @@
+//tsconfig using esnext
+
+{
+  "compilerOptions": {
+    "target": "ESNext"
+  }
+}
